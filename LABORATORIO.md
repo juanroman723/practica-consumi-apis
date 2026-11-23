@@ -1,10 +1,10 @@
-# Práctica consumo APIs
+# Práctica consumo APIs.
 
 **Programación Web**
 
 ![Institución Universitaria Pascual Bravo](https://pascualbravo.edu.co/wp-content/uploads/2023/06/cropped-Imagotipo-horizontal_acreditados.png)
 
-## Integrantes
+## Integrantes.
 
 Escribe aquí el nombre completo de cada estudiante. Con esta sección se identifica la entrega.
 
